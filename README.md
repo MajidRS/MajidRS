@@ -34,12 +34,14 @@ I am a logic-driven **Backend Developer** from Algeria, focused on building robu
 - [ ] **System Design:** Architecting for performance and high availability.
 
 ---
-
 ### 📈 GitHub Stats
 <p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MajidRS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajidRS&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MajidRS&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MajidRS&layout=compact&theme=tokyonight" />
 </p>
+
+> **Note:** Some stats might take a few minutes to update based on your latest public commits.
 
 ---
 
