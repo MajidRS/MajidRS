@@ -38,8 +38,6 @@ I am a logic-driven **Backend Developer** from Algeria, focused on building robu
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MajidRS&theme=tokyonight" />
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MajidRS&layout=compact&theme=tokyonight" />
-</p>
 
 > **Note:** Some stats might take a few minutes to update based on your latest public commits.
 
