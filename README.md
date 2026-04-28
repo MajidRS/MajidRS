@@ -28,9 +28,9 @@ I am a logic-driven **Backend Developer** from Algeria, focused on building robu
 ### 🗺️ My Learning Roadmap & Progress
 - [x] **Backend Fundamentals:** JavaScript ES6+, Node.js & Express framework.
 - [x] **RESTful Architecture:** Designing scalable and standard communication layers.
+- [x] **Advanced Data Modeling:** Currently mastering complex MongoDB Aggregations.
 - ⏳ **Data Structures & Algorithms:** Mastering problem-solving logic and efficiency.
 - ⏳ **Software Design Patterns:** Implementing MVC and Clean Coding principles.
-- ⏳ **Advanced Data Modeling:** Currently mastering complex MongoDB Aggregations.
 - [ ] **System Design:** Architecting for performance and high availability.
 
 ---
